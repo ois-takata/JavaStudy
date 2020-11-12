@@ -32,7 +32,7 @@ public class practice_2_3 {
                 fortuneString = "凶";
                 break;
         }
-        System.out.println(age + "歳の" + name + "さん、あなたの運気番号は" + fortuneString + "です");
+        System.out.println(age + "歳の" + name + "さん、あなたの運気は" + fortuneString + "です");
 
         }
 }
